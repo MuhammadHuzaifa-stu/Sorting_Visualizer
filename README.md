@@ -16,13 +16,13 @@ Sorting Visualizer is a desktop application that visually demonstrates how diffe
 
 ## Screenshots
 
-screenshots/sorting_visualizer.png
+![Sorting Visualizer](screenshots/sorting_visualizer.png)
 
 ## Installation
 
 ### Prerequisites
 
-- [Qt Creator]
+- [Qt Creator](https://www.qt.io/download) (with Qt libraries)
 
 ### Clone the Repository
 
