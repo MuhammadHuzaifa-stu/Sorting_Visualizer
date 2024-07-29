@@ -1,4 +1,3 @@
-```markdown
 # Sorting Visualizer
 
 Sorting Visualizer is a desktop application that visually demonstrates how different sorting algorithms work. This tool provides an educational experience by allowing users to see the step-by-step process of various sorting algorithms through animations.
@@ -17,7 +16,7 @@ Sorting Visualizer is a desktop application that visually demonstrates how diffe
 
 ## Screenshots
 
-![Sorting Visualizer](screenshots/sorting_visualizer.png)
+screenshots/sorting_visualizer.png
 
 ## Installation
 
